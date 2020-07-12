@@ -1,2 +1,3 @@
 # RazeCore
-A reusable framework
+
+Learn how to make a Swift Package.
